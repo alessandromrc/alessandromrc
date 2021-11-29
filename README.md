@@ -2,6 +2,7 @@
 <h3 align="center">I'm a backend developer, student and electronic passionate</h3>
 
 - 💬 Ask me about **NodeJS, C++, C, Arduino and other stuff**
+- ⚡ Fun fact **I use Arch BTW**
 
 
 <h3 align="left">Languages and Tools:</h3>
