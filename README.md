@@ -53,13 +53,14 @@ $ tree ~/pinned-projects/
 ├── fastfetch-installer
 │   └── Installer script for Fastfetch
 ├── dl380p-utils
-│   └──  Enhance usage of your DL380p Gen8 server 
+│   └──  Enhance usage of your DL380p Gen8 server
 └── i686-elf-tools
     └── Cross-compilation toolchain for WSL
 
 $ echo $STATUS
-> Available for collaboration
-> Open to interesting projects
+> Available for collaboration.
+> Open to interesting projects.
+> Email me for informations about projects or interesting topics.
 
 $ _
 ```
