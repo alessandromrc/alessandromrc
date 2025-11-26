@@ -24,7 +24,6 @@ alessandro
 $ cat contact.txt
 email: alessandro@moyai.one
 web:   https://moyai.one
-pgp:   FE959959BE428F4611F93053AE5465BCB146152F
 
 $ ls -la /expertise/
 drwxr-xr-x  system-programming/
